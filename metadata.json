@@ -1,0 +1,6 @@
+{
+  "name": "Apna Maweshi - Pakistani Livestock Marketplace",
+  "description": "Production livestock marketplace connecting Pakistani farmers, breeders, buyers, and veterinary and transport services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
